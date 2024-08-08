@@ -17,3 +17,4 @@ Python version: 3.9<br/>
 $ python manage.py runserver
 ```
 3. Launch the browser and navigate to http://127.0.0.1:8000/shop/#
+testing
